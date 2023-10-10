@@ -1,0 +1,15 @@
+var a = Number("100");
+console.log("Nilai a adalah : " + a);
+console.log("Tipe datanya : " + typeof(a));
+console.log("Nilai a adalah : " + a.toExponential());
+console.log("Tipe datanya : " + typeof(a.toExponential()));
+console.log("Nilai a adalah : " + a.toFixed());
+console.log("Tipe datanya : " + typeof(a.toFixed()));
+console.log("Nilai a adalah : " + a.toLocaleString());
+console.log("Tipe datanya : " + typeof(a.toLocaleString()));
+console.log("Nilai a adalah : " + a.toPrecision());
+console.log("Tipe datanya : " + typeof(a.toPrecision()));
+console.log("Nilai a adalah : " + a.toString());
+console.log("Tipe datanya : " + typeof(a.toString()));
+console.log("Nilai a adalah : " + a.valueOf());
+console.log("Tipe datanya : " + typeof(a.valueOf()));
